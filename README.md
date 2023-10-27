@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on javascript nodejs react html css projects
 - 📫 How to reach me faheemhassan1985@gmail.com
 - 👨‍💻 Follow me on LinkedIn https://www.linkedin.com/in/faheem-hassan/
+- ![Codewars](https://github.r2v.ch/codewars?user=faheem102&stroke=blue)
 - https://www.codewars.com/users/faheem102/badges/micro
 
 <!---
